@@ -35,4 +35,6 @@ body.page-template-full-page .entry-summary {
 .panel-grid .widget {
   margin-left: auto;
   margin-right: auto;
+  padding-left: auto;
+  padding-right: auto;
 }
