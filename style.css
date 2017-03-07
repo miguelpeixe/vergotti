@@ -31,3 +31,8 @@ body.page-template-full-page .entry-content,
 body.page-template-full-page .entry-summary {
   padding: 0 0 10%;
 }
+
+.panel-grid .widget {
+  margin-left: auto;
+  margin-right: auto;
+}
