@@ -46,3 +46,13 @@ body.page-template-full-page .entry-summary {
 .panel-grid .widget blockquote small {
   color: #333;
 }
+
+.panel-grid .secondary a:hover,
+.panel-grid .secondary a:focus,
+.panel-grid .main-navigation .menu-item-description,
+.panel-grid .widget,
+.panel-grid .widget blockquote,
+.panel-grid .widget .wp-caption-text,
+.panel-grid .widget .gallery-caption {
+  color: rgba(51, 51, 51, 0.7);
+}
