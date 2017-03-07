@@ -39,6 +39,10 @@ body.page-template-full-page .entry-summary {
   padding-right: 0;
 }
 
-.panel-grid .widget-title {
+.panel-grid .secondary a,
+.panel-grid .dropdown-toggle:after,
+.panel-grid .widget-title,
+.panel-grid .widget blockquote cite,
+.panel-grid .widget blockquote small {
   color: #333;
 }
