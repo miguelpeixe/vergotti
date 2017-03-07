@@ -24,6 +24,7 @@ body.page-template-full-page .hentry {
 
 body.page-template-full-page .entry-header {
   padding: 0;
+  display: none;
 }
 
 body.page-template-full-page .entry-content,
