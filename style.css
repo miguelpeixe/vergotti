@@ -8,3 +8,17 @@ License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Template: twentyfifteen
 */
+
+body.page-template-full-page .hentry {
+  padding-top: 0;
+  box-shadow: 0 0 0;
+}
+
+body.page-template-full-page .entry-header {
+  padding: 0;
+}
+
+body.page-template-full-page .entry-content,
+body.page-template-full-page .entry-summary {
+  padding: 0 0 10%;
+}
